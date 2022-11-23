@@ -1,0 +1,60 @@
+@import url(../../../../../des/fonts/Olivetti\ Neue/OlivettiNeue.otf);
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  font-family: Olivetti Neue, monospace;
+  font-weight: normal;
+}
+
+body {
+  background: radial-gradient(circle at 7.5% 24%, rgb(237, 161, 193) 0%, rgb(250, 178, 172) 25.5%, rgb(190, 228, 210) 62.3%, rgb(215, 248, 247) 93.8%);
+}
+
+.calculator-grid {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  min-height: 100vh;
+  grid-template-columns: repeat(4, 100px);
+  grid-template-rows: minmax(120px, auto) repeat(5, 100px);
+}
+
+.calculator-grid>button {
+  cursor: pointer;
+  font-size: 2rem;
+  border: 2px solid white;
+  outline: none;
+  background-color: rgba(255, 255, 255, .00);
+}
+
+.calculator-grid>button:hover {
+  background-color: rgba(255, 255, 255);
+}
+
+.span-two {
+  grid-column: span 2;
+}
+
+.output {
+  grid-column: 1/ -1;
+  background-color: rgba(0, 0, 0, .6);
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+  flex-direction: column;
+  padding: 10px;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+.output .previous-operand {
+  color: rgba(255, 255, 255, .75);
+  font-size: 1.5rem;
+}
+
+.output .current-operand {
+  color: white;
+  font-size: 2.5rem;
+}
