@@ -1,10 +1,10 @@
-@import url(../../../../../des/fonts/Olivetti\ Neue/OlivettiNeue.otf);
+@import url(../../../../../des/fonts/São\ Torpes\ DCU/SaoTorpes.otf);
 
 *,
 *::before,
 *::after {
   box-sizing: border-box;
-  font-family: Olivetti Neue, monospace;
+  font-family: SaoTorpes;
   font-weight: normal;
 }
 
