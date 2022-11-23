@@ -12,7 +12,7 @@ To use this web app, please click the buttons to perform simple but useful math 
 *Most suitable for computers and tablets.
 
 # Screenshot
-![Screenshot of the web application]()
+![Screenshot of the web application](./assets/img/mini-calc.png)
 
 # Credits
 https://www.youtube.com/watch?v=j59qQ7YWLxw
