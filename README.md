@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=j59qQ7YWLxw
 https://gradients.shecodes.io/gradients/27
 
 # License
-Please refer to the LICENSE in the Repo.
+Please refer to LICENSE in the Repo.
 
 # Deployment Page
-https://davidmackeydev.github.io/mini-calc
+[Deployment](https://davidmichaelmackey.github.io/mini-calc/)
