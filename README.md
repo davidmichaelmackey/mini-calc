@@ -15,9 +15,9 @@ To use this web app, please click the buttons to perform simple but useful math 
 ![Screenshot of the web application](./assets/img/mini-calc.png)
 
 # Credits
-https://www.youtube.com/watch?v=j59qQ7YWLxw
+[Tutorial](https://www.youtube.com/watch?v=j59qQ7YWLxw)
 <br>
-https://gradients.shecodes.io/gradients/27
+[Gradients](https://gradients.shecodes.io/gradients/27)
 
 # License
 Please refer to LICENSE in the Repo.
