@@ -22,4 +22,4 @@ To use this web app, please click the buttons to perform simple but useful math 
 Please refer to LICENSE in the Repo.
 
 # Deployment Page
-[Deployment](https://davidmichaelmackey.github.io/mini-calc/)
+[Deployment](https://davidmichaelmackey.github.io/simple-calculator/)
