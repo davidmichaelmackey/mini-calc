@@ -1,25 +1,25 @@
 # Simple-Calculator
 
-# Description
+## Description
 A minimal but useful calculator!
 
-# Installation
+## Installation
 N/A : No installation necessary.
 
-# Usage
+## Usage
 To use this web app, please click the buttons to perform simple but useful math solutions.
 *Most suitable for computers and tablets.
 
-# Screenshot
+## Screenshot
 ![Screenshot of the web application](./assets/img/mini-calc.png)
 
-# Credits
+## Credits
 [Tutorial](https://www.youtube.com/watch?v=j59qQ7YWLxw)
 <br>
 [Gradients](https://gradients.shecodes.io/gradients/27)
 
-# License
+## License
 Please refer to LICENSE in the Repo.
 
-# Deployment Page
+## Deployment Page
 [Deployment](https://davidmichaelmackey.github.io/simple-calculator/)
