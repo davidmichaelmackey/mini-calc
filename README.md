@@ -1,8 +1,7 @@
-# Mini-Calc
-A minimal but useful calculator!
+# Simple-Calculator
 
 # Description
-This project was to build a simple calculator using JavaScript.
+A minimal but useful calculator!
 
 # Installation
 N/A : No installation necessary.
